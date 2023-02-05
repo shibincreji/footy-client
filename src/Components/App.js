@@ -1,4 +1,4 @@
-import React from 'react';11111111111
+import React from 'react';
 import axios from 'axios';
 import './App.css';
 import PlayerList from './Player/PlayerList';
